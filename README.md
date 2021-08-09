@@ -1,4 +1,3 @@
-# lin-conf
-This Repo have almost all configuration files i need on my Linux Machines. It is just an eassy way to have the system start running with specific Configurations based on my needs
+This repo have all CONFIG files for my PC. For every specific programm or tool there is a branch which include all configs for that programm or tool
 
 
