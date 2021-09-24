@@ -12,6 +12,12 @@ Then you can create you aliases inside this file
   alias ALIAS_NAME = 'COMMAND'
 ```
 
+After that you need to let Bash reload 
+
+```
+$ source .bashrc
+```
+
 Some aliases of my own : 
 
 * To open Xampp GUI ( you need to install xampp first )
